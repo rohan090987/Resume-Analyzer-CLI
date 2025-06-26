@@ -13,3 +13,4 @@ A Python command-line tool to analyze PDF resumes and suggest keyword-based impr
 ```bash
 git clone https://github.com/rohan090987/resume-analyzer-cli.git
 cd resume-analyzer-cli
+python resume_analyzer.py sample_resume.pdf
